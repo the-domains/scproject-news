@@ -1,0 +1,14 @@
+layout_spectrum: 0.40206786314956844
+typography_spectrum: 0.15725099481642246
+color:
+  brandStrength: 0.1806510053575039
+  lightness: 0.1411970411427319
+  saturation: 0.6977475229650736
+  rhythmicContrast: 0.26666032150387764
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+name: SCProject News
