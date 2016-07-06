@@ -2,10 +2,17 @@
     <channel>
         <title><![CDATA[SCProject News]]></title>
         <description><![CDATA[SCProject News]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/scproject-news/</link>
         <generator>The Grid</generator>
         <lastBuildDate>Wed, 06 Jul 2016 03:46:00 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <atom:link href="https://thegrid.ai/scproject-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[That Sinking Feeling: The Politics of Sea Level Rise and Miami's Building Boom]]></title>
+            <description><![CDATA[<article><h1>That Sinking Feeling: The Politics of Sea Level Rise and Miami's Building Boom</h1><p>This article appears in the Winter 2016 issue of The American Prospect magazine. Subscribe here. Even from thousands of feet in the air, it's obvious that Miami is disturbingly low-lying. Luxury sky-high buildings, bridges, and cranes tower over swampy marshlands and the slowly rising sea.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/2bba7d006a3f662b4f529908cf02f977/croprotate.jpeg?cropheight=569&cropwidth=1268&degrees=0&input=http%3A%2F%2Fprospect.org%2Fsites%2Fdefault%2Ffiles%2Fstyles%2Fthumbnail%2Fpublic%2Fap080226067637_lead.jpeg%3Fitok%3D0adX9IJx&x=0&y=0"></article>]]></description>
+            <link>http://prospect.org/article/sinking-feeling-politics-sea-level-rise-and-miamis-building-boom</link>
+            <guid isPermaLink="false">51dc14b4-2e3e-4e7b-a645-27d80ab1a307</guid>
+            <pubDate>Wed, 06 Jul 2016 03:45:36 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Rising Seas: Inching Towards Disaster]]></title>
             <description><![CDATA[<article><h1>Rising Seas: Inching Towards Disaster</h1><p>When will this affect the price of your house? It depends on where you live, of course, but aside from that, a lot depends on how fast sea level rises and how effectively new drainage systems and other engineering measures can fight it.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/49e9b00f743bfd305c73f46a1fe0ed4a/noop.jpg?input=http%3A%2F%2Finteractive.sun-sentinel.com%2Frising-seas%2Fimages%2Feverglades.jpg"></article>]]></description>
