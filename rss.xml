@@ -8,6 +8,20 @@
         <atom:link href="https://thegrid.ai/scproject-news/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/c534c130-3aac-4879-91d2-e03b7c88b643.jpg">]]></description>
+            <link>https://thegrid.ai/scproject-news/05fbbd0e-a0f1-4dc6-95c3-1fab3dbacb9e/index.html</link>
+            <guid isPermaLink="false">05fbbd0e-a0f1-4dc6-95c3-1fab3dbacb9e</guid>
+            <pubDate>Wed, 06 Jul 2016 03:45:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Review Paper </p>]]></description>
+            <link>https://thegrid.ai/scproject-news/review-paper/index.html</link>
+            <guid isPermaLink="false">91b80c69-51a7-404a-9aee-e0e1538e483f</guid>
+            <pubDate>Wed, 06 Jul 2016 03:45:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>Review Paper </p>]]></description>
             <link>https://thegrid.ai/scproject-news/review-paper/index.html</link>
             <guid isPermaLink="false">1ca7d1e2-0cc7-4571-81ac-e7abdf0a5870</guid>
