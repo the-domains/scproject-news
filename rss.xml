@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[SCProject News]]></title>
+        <description><![CDATA[SCProject News]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Wed, 06 Jul 2016 03:46:00 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Rising Seas: Inching Towards Disaster]]></title>
+            <description><![CDATA[<article><h1>Rising Seas: Inching Towards Disaster</h1><p>When will this affect the price of your house? It depends on where you live, of course, but aside from that, a lot depends on how fast sea level rises and how effectively new drainage systems and other engineering measures can fight it.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/49e9b00f743bfd305c73f46a1fe0ed4a/noop.jpg?input=http%3A%2F%2Finteractive.sun-sentinel.com%2Frising-seas%2Fimages%2Feverglades.jpg"></article>]]></description>
+            <link>http://interactive.sun-sentinel.com/rising-seas/property.html</link>
+            <guid isPermaLink="false">8748788c-68ec-44fa-b4c3-8ade3a89ef75</guid>
+            <pubDate>Wed, 06 Jul 2016 03:45:36 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
