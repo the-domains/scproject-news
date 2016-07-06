@@ -4,15 +4,8 @@
         <description><![CDATA[SCProject News]]></description>
         <link>https://thegrid.ai/scproject-news/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 06 Jul 2016 03:46:03 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 Jul 2016 03:46:02 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/scproject-news/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/36eddda9-c7dc-43d8-b614-f8d328d210a7.jpg">]]></description>
-            <link>https://thegrid.ai/scproject-news/2c1c5b28-b1ac-4149-82e7-0a87efc7f357/index.html</link>
-            <guid isPermaLink="false">2c1c5b28-b1ac-4149-82e7-0a87efc7f357</guid>
-            <pubDate>Wed, 06 Jul 2016 03:45:37 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/03daacc0-d994-4467-9e0a-5a79c414e6ab.jpg">]]></description>
@@ -74,6 +67,13 @@
             <description><![CDATA[<p>Review Paper </p>]]></description>
             <link>https://thegrid.ai/scproject-news/review-paper/index.html</link>
             <guid isPermaLink="false">1ca7d1e2-0cc7-4571-81ac-e7abdf0a5870</guid>
+            <pubDate>Wed, 06 Jul 2016 03:45:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Polar ice sheets melting faster than ever | Environment | DW.COM | 04.02.2013]]></title>
+            <description><![CDATA[<article><h1>Polar ice sheets melting faster than ever | Environment | DW.COM | 04.02.2013</h1><p>The polar regions are important drivers of the world's climate. When the "everlasting ice" melts at an increasing rate, the rest of the world is affected. Global sea levels are rising, dark meltwater pools absorb warmth from the sun which white ice would reflect back into space.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/08288cde-4a6d-4a03-ae91-a058932b4247.jpg"></article>]]></description>
+            <link>http://www.dw.com/en/polar-ice-sheets-melting-faster-than-ever/a-16432199</link>
+            <guid isPermaLink="false">a8b34b4d-f6f5-458b-9d4b-e037dff44da6</guid>
             <pubDate>Wed, 06 Jul 2016 03:45:36 GMT</pubDate>
         </item>
     </channel>
